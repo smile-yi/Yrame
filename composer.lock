@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "252db93f729556fb7c9d6203376f0ea5",
+    "packages": [
+        {
+            "name": "smileyi/utils",
+            "version": "v0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/smile-yi/PHPUtils.git",
+                "reference": "e1b9ccf619250500539ed9a2f52212cced76af55"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/smile-yi/PHPUtils/zipball/e1b9ccf619250500539ed9a2f52212cced76af55",
+                "reference": "e1b9ccf619250500539ed9a2f52212cced76af55",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "php": ">=7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SmileYi\\Utils\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "王中艺",
+                    "email": "wangzy_smile@qq.com"
+                }
+            ],
+            "time": "2019-05-24T08:13:54+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
